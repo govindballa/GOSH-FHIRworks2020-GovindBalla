@@ -17,5 +17,9 @@ To view the marital statuses of patients in different age bands:
 ```bash
 python MaritalStatusByAge.py
 ```
+## Notable mentions
+Special thanks to Ethan Wood ([greenfrogs](https://github.com/greenfrogs)) for creating the FHIR-Parser package to allow for quick and easy data parsing from the FHIR Records.
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
